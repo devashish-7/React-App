@@ -70,6 +70,4 @@ in line 42 you can change if condition to get different outputs.
 - Case 5 :- occurances of word < inputNumber (output :- you will get all words whose frequency of occurrence is less than input number)
 
 ### deploy
-
-<a href="" target="_blank">REACTJS APP</a>
 Give a ⭐ if you like this website!
