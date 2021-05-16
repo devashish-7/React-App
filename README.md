@@ -69,5 +69,5 @@ in line 42 you can change if condition to get different outputs.
 - Case 4 :- occurances of word > inputNumber (output :- you will get all words whose frequency of occurrence is greater than input number)
 - Case 5 :- occurances of word < inputNumber (output :- you will get all words whose frequency of occurrence is less than input number)
 
-### deploy
+
 Give a ⭐ if you like this website!
